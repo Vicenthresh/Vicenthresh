@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp; Currently studying Computer Science.\
-🌱 &nbsp; Interested in Frontend and Game Development.\
+🌱 &nbsp; Interested in Frontend and Game Development.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
