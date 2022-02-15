@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vicenthresh's github stats](https://github-readme-stats.vercel.app/api?username=Vicenthresh&theme=merko&layout=compact)
+
 <!--
 **Vicenthresh/Vicenthresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
