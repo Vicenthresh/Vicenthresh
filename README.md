@@ -2,10 +2,6 @@
 🎓 &nbsp; Currently studying Computer Science.\
 🌱 &nbsp; Interested in Frontend and Game Development.
 
-### 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&redirect=true)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -15,17 +11,12 @@
 </a>
 </p>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
+### 🎵
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&redirect=true)
-  </td>
-  <td width="50%">
-
-  </p>
-  </td>
-</table>
+ </div>
 <!--
 **Vicenthresh/Vicenthresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
