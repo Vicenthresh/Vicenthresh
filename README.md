@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=12175674216&redirect=true">
     
-     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]              (https://spotify-github-profile.vercel.app/api/view?uid=12175674216&redirect=true)
+     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175674216&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)] (https://spotify-github-profile.vercel.app/api/view?uid=12175674216&redirect=true)
     
     </a>
   </p>
