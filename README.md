@@ -5,7 +5,7 @@
 
   <h1>About me</h1>
 
-  🎓 &nbsp; Computer Science student.\
+  🎓 &nbsp; Computer Science Analyst.\
   🌱 &nbsp; Interested in Web and Game Development.
 
   <br>
