@@ -18,9 +18,6 @@
   </a>
   </p>
   <br>
-
-  <img src="assets/gengar-spin.gif" align="right" width="175">
-  
 <!--
 **Vicenthresh/Vicenthresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
